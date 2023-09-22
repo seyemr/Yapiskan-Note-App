@@ -1,6 +1,6 @@
 # Yapışkan Not Uygulaması
 
-<img src="/yapiskan-app/src/gif/gif.gif">
+<img src="/src/gif/gif.gif">
 
 Bu proje, kullanıcıların çeşitli notlar oluşturmasına, düzenlemesine ve silebileceği basit bir yapışkan not uygulamasını içerir. Bu uygulama, React.js kullanılarak geliştirilmiştir ve temel bir React uygulamasının nasıl oluşturulacağını anlamak için harika bir başlangıç noktası olabilir.
 
